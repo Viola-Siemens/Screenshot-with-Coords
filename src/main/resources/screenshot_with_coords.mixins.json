@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "com.hexagram2021.screenshot_with_coords.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "screenshot_with_coords.refmap.json",
+  "minVersion": "0.8",
+  "client": [
+  ]
+}
